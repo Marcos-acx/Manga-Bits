@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Audiowide&display=swap');
+
+.navTitle.headerTitle {
+    font-family: 'Audiowide', cursive;
+    color: orange;
+    font-size: 25px;
+    transition: 0.2s;
+}
+.navTitle:hover.headerTitle {
+    transition: 0.2s;
+}
